@@ -54,7 +54,7 @@
 ![Screenshot 2024-07-02 210445](https://github.com/erik-salgado/Azure/assets/173113320/fea95fd7-a869-4cfc-8afe-104a96f11e8d)
 ![Screenshot 2024-07-02 210509](https://github.com/erik-salgado/Azure/assets/173113320/280bf924-198b-496f-b866-f4d852be6d8d)
 
-- Virtual Machine (Windows 10 Pro) Succesfully created. Observations: When creating our VM, a Virual Network, Virtual NIC and IP Address will automatically be created.
+- Virtual Machine (Windows 10 Pro) Succesfully created. Observations: When creating our VMs, a Virtual Network, Virtual NIC, IP Address and Network Security Groups will be automatically created.
 
 ![Screenshot 2024-07-03 194139](https://github.com/erik-salgado/Azure/assets/173113320/0ab9b152-97fe-4e46-b39a-00c8c4b2fb76)
 ![Screenshot 2024-07-02 211129](https://github.com/erik-salgado/Azure/assets/173113320/0653022b-e9d3-46f9-8852-ab6f0d6d5e82)
