@@ -28,7 +28,7 @@
 
 ![Screenshot 2024-07-02 202643](https://github.com/erik-salgado/Azure/assets/173113320/7e373d11-25b0-4161-bf7d-1c1c4b140fa4)
 
-- Resource Succesfully Created
+- Resource Group Succesfully Created
 
 ![Screenshot 2024-07-02 202708](https://github.com/erik-salgado/Azure/assets/173113320/205a5045-0222-4c5f-88f0-b419ecafb402)
 
