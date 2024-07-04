@@ -40,7 +40,7 @@
 
 ![Screenshot 2024-07-02 204633](https://github.com/erik-salgado/Azure/assets/173113320/90449c52-2b6d-4609-8cc3-eeb92a543595)
 
-- Place VM in the Resoucre Group that was created
+- Place VM in the Resource Group that was created
 
 ![Screenshot 2024-07-02 204721](https://github.com/erik-salgado/Azure/assets/173113320/02076185-8383-4903-ab20-81b6f3859dbc)
 
@@ -60,13 +60,13 @@
 ![Screenshot 2024-07-02 211129](https://github.com/erik-salgado/Azure/assets/173113320/0653022b-e9d3-46f9-8852-ab6f0d6d5e82)
 
 
-- Repeat same steps for our VM (Linux [Ubunto]) Observations: Place VM2 (Linux) in the same resource group where VM is. Use same region. Choose 2cpus for the size for optimial performance. For Authentication choose the password option.
+- Repeat same steps for creating our second VM (Linux [Ubuntu]) Observations: Place VM2 (Linux) in the same resource group where VM is. Use same region. Choose 2cpus for the size for optimial performance. For Authentication choose the password option.
 
 ![Screenshot 2024-07-02 211250](https://github.com/erik-salgado/Azure/assets/173113320/e84401be-4f3b-4715-afae-e78814eb51df)
 ![Screenshot 2024-07-02 211330](https://github.com/erik-salgado/Azure/assets/173113320/d591b225-5656-49a7-9f32-355add653f44)
 ![Screenshot 2024-07-02 211358](https://github.com/erik-salgado/Azure/assets/173113320/9cfe8467-7e86-46b1-a325-7d9946a948a7)
 
-- Virtual Machine (Linux [Ubunto]) Successfully created.
+- Virtual Machine (Linux [Ubuntu]) Successfully created.
 
 ![Screenshot 2024-07-02 211547](https://github.com/erik-salgado/Azure/assets/173113320/d833dfab-6706-477c-afc5-3abe68330436)
 ![Screenshot 2024-07-02 211610](https://github.com/erik-salgado/Azure/assets/173113320/faf6865e-0157-4708-a674-e6fe7c03b2d0)
